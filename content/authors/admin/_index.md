@@ -44,12 +44,15 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/Stephen_G151
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+# - icon: google-scholar
+#  icon_pack: ai
+#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/sgonzalez122
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/stephen-gonzalez-364914123/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -69,6 +72,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Hi my name is Stephen, I am a recent graduate from the Neuroimaging and Informatics program at the University of Southern California. I previously studied Psychology at the California State University of Fullerton, with a fervent interest in conducting research, specifically in cognitive neuropsychology. Currently, I am working as a research assistant in a Neuroimaging Lab at the California Institute of Technology. My primary research goals involve researching the neurological development of learning disabilities. I am interested in using MRI to search for neurological markers of learning disabilities, such as Dyslexia and Attention Deficit Disorder. I am also interested in using MRI to studying cognition, PTSD, generalized anxiety, depression, and chronic pain. 
